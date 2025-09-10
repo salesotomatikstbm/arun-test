@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import HeaderTopbar from '../HeaderTopbar/HeaderTopbar';
+
 import MobileMenu from '../MobileMenu/MobileMenu';
 import Logo from '../../images/logo.png';
 import Logo2 from '../../images/logo2.png';

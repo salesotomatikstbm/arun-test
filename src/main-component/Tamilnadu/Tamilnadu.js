@@ -1,10 +1,9 @@
 import React, {Fragment} from 'react';
 import PageTitle from '../../components/pagetitle/PageTitle.js'
-import BlogList from '../../components/BlogList/BlogList.js'
 import Navbar from '../../components/Navbar/Navbar.js';
 import Footer from '../../components/footer/Footer.js';
 import Scrollbar from '../../components/scrollbar/scrollbar.js'
-import History from '../../components/All CMS Page/History.js';
+
 import Tamilnadu from '../../components/All CMS Page/Tamilnadu.js';
 
 const Tamilnadupage =() => {
